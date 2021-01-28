@@ -1,6 +1,6 @@
 # Flutter animation project 
 
-![App screenshot](/_github_resources/app_screenshot_a.png)
+![App screenshot](/_github_resources/app_screenshot_1.png)
 
 ## Getting Started
 
